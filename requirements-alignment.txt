@@ -1,2 +1,2 @@
 # Optional local speech-to-text stage. The first run downloads the selected Whisper model.
-faster-whisper>=1.1.0
+faster-whisper>=1.2.1

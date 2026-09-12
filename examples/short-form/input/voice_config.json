@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0",
+  "provider": "google_gemini_tts",
+  "model": "gemini-3.1-flash-tts-preview",
+  "voice_name": "Puck",
+  "style_instruction": "Speak clearly as a conversational explainer with natural pauses, light dry humor, and controlled energy. Keep the delivery human and easy to understand.",
+  "chunk_max_characters": 2200,
+  "sample_rate_hz": 24000
+}

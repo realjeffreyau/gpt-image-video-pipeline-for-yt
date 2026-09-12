@@ -1,0 +1,33 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.codex/
+
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Operating system and editor metadata
+.DS_Store
+.vscode/
+.idea/
+
+# Generated project state and media
+final-videos/
+projects/*/work/
+projects/*/output/
+projects/*/input/images/
+projects/*/input/*.wav
+projects/*/input/*.mp3
+projects/*/input/*.mp4
+projects/*/input/*.mov
+*.codex.log
+*.tmp
+*.bak

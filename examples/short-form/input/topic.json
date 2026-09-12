@@ -1,0 +1,9 @@
+{
+  "schema_version": "1.0",
+  "project_id": "why-spicy-food-feels-hot",
+  "format": "short",
+  "topic": "Why spicy food feels hot",
+  "audience": "curious general adult viewers",
+  "target_words": 185,
+  "target_duration_seconds": {"minimum": 60, "maximum": 65}
+}
